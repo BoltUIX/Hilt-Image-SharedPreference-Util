@@ -1,4 +1,4 @@
-# Hilt-Image-Util
+# Hilt-Image-SharedPreference-Util
 Load image using Picasso library & Common shared preference using HILT and mvvm pattern
 
  Implementing dependency injection provides you with the following advantages:
